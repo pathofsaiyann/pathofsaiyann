@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pathofsaiyann/pathofsaiyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Top Banner Image -->
+![Space Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=A%20R%20J%20U%20N&fontSize=42&fontColor=ffffff&fontAlignY=40)
 
-Here are some ideas to get you started:
+# 🌌 CREATING DIGITAL WORLDS FROM STardust
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+ 🚀 Systems, Web Architecture & Low-Level Code
+[usr@saiyann-space ~]$ cat identity.txt
+Name       : Arjun
+Role       : Full-Stack Developer & Tech Enthusiast
+Focus      : Scalable Web Systems & Systems Programming
+Aesthetic  : Space / Dark / Minimalist
+
+🌌 "Somewhere, something incredible is waiting to be known." — Carl Sagan
