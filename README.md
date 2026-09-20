@@ -1,11 +1,9 @@
-<img align="right" src="https://raw.githubusercontent.com/pathofsaiyann/pathofsaiyann/main/gif.gif" width="150" />
+<img align="right" src="https://raw.githubusercontent.com/pathofsaiyann/pathofsaiyann/main/gif.gif" width="200" height="200" />
 
 <h2 align="left">Arjun Kumar</h2>
 
-<br clear="both">
-
 <div align="center">
-  <img height="200" src="A evolução não existe para apagar o passado, mas para continuar a história que ele começou_.jpeg" />
+  <img height="200" src="https://raw.githubusercontent.com/pathofsaiyann/pathofsaiyann/main/banner.jpeg" />
 </div>
 
 <h2 align="left">About me</h2>
