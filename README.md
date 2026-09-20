@@ -1,20 +1,18 @@
 <img align="right" src="https://raw.githubusercontent.com/pathofsaiyann/pathofsaiyann/main/gif.gif" width="200" height="200" />
 
-<h2 align="left">Arjun Kumar</h2>
+<h3>Arjun Kumar</h3>
 
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/pathofsaiyann/pathofsaiyann/main/banner.jpeg" />
-</div>
+<h3>About me</h3>
 
-<h2 align="left">About me</h2>
+<p>I build web apps and AI tools</p>
 
-<p align="left">I build web apps and AI tools</p>
+<p>Currently studying Artificial Intelligence and building things on the side.</p>
 
-<p align="left">Currently studying Artificial Intelligence and building things on the side.</p>
+<br clear="right">
 
-<h2 align="left">Stack</h2>
+<h3>Stack</h3>
 
-<div align="left">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
