@@ -1,18 +1,20 @@
+<h2 data-importer="text" align="left">Arjun Kumar</h2>
+
+###
+
+<br clear="both">
+
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://github.com/pathofsaiyann/pathofsaiyann/blob/main/Krishna%20x%20Arjuna.jpeg"  />
+  <img data-importer="image" height="200" src="A evolução não existe para apagar o passado, mas para continuar a história que ele começou_.jpeg"  />
 </div>
 
 ###
 
-<h1 data-importer="text" align="left">Arjun</h1>
+<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
 <p data-importer="text" align="left">I build web apps and AI tools</p>
-
-###
-
-<h2 data-importer="text" align="left">About me</h2>
 
 ###
 
