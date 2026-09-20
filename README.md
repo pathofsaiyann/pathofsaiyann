@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="A evolução não existe para apagar o passado, mas para continuar a história que ele começou_.jpeg"  />
-</div>
-
 ###
 
 <h2 data-importer="text" align="left">About me</h2>
